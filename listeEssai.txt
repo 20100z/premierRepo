@@ -1,1 +1,6 @@
 blablabla
+<<<<<<< HEAD
+=======
+blabla 2
+balabla 3
+>>>>>>> parent of f9b87ea... autre essai 5
